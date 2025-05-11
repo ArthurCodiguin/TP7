@@ -1,0 +1,133 @@
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Tp07.exe.config
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Tp07.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Tp07.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Newtonsoft.Json.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Buffers.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.IO.Pipelines.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Memory.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Text.Json.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.ValueTuple.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\Newtonsoft.Json.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Buffers.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.IO.Pipelines.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Memory.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Text.Json.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\bin\Debug\System.ValueTuple.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.csproj.AssemblyReference.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.csproj.SuggestedBindingRedirects.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.Form1.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.Properties.Resources.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.csproj.GenerateResource.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.csproj.CoreCompileInputs.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.csproj.CopyComplete
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp07\Tp07\obj\Debug\Tp07.pdb
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Tp07.exe.config
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Tp07.exe
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Tp07.pdb
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Buffers.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Memory.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Text.Json.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Buffers.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Memory.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Text.Json.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.csproj.AssemblyReference.cache
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.Form1.resources
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.Properties.Resources.resources
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.csproj.GenerateResource.cache
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.csproj.Up2Date
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.exe
+C:\Users\Usuário\Downloads\Tp07\Tp07\Tp07\obj\Debug\Tp07.pdb
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Tp07.exe.config
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Tp07.exe
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Tp07.pdb
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Buffers.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Memory.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Json.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Buffers.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Memory.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Json.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.Form1.resources
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.Up2Date
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.exe
+C:\Users\Usuário\Desktop\Tp_07\Tp07\Tp07\obj\Debug\Tp07.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Tp07.exe.config
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Tp07.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Tp07.pdb
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Newtonsoft.Json.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Buffers.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.IO.Pipelines.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Memory.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Json.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.ValueTuple.dll
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\Newtonsoft.Json.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Buffers.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.IO.Pipelines.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Memory.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Numerics.Vectors.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Encodings.Web.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Text.Json.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\bin\Debug\System.ValueTuple.xml
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.AssemblyReference.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.Form1.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.Properties.Resources.resources
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.GenerateResource.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.CoreCompileInputs.cache
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.csproj.Up2Date
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.exe
+D:\3° SEMESTRE\APLICAÇÕES PARA DESKTOP\NONA AULA\Tp_07\Tp07\Tp07\obj\Debug\Tp07.pdb
